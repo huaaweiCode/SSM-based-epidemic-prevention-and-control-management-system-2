@@ -1,10 +1,5 @@
 # 基于SSM的疫情防控管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**疫情2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -90,11 +85,4 @@
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207132313639.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**疫情2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
